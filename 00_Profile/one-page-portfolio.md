@@ -14,9 +14,13 @@ Tehran, Iran | hanie.akhlaghi@gmail.com | LinkedIn: https://www.linkedin.com/in/
 - Manuscript/thesis submissions supported: 15+ ( 7 accepted/in press )
 - Students/junior staff trained/supervised in animal labs: 300+
   ## Core toolkit
-- Data analysis/reporting: SPSS / Oligo / GraphPad Prism / blast / etc
-- Animal work: behavioral tests, sampling, documentation/QC / etc
-- Evidence synthesis: PRISMA, SWiM / etc
+- Data analysis/reporting: SPSS / Oligo / GraphPad Prism / blast / ...
+- Animal work: behavioral tests, sampling, documentation/QC / ...
+- Evidence synthesis: PRISMA, SWiM / ...
+  ## Signature deliverables
+- Publication-ready figures/tables + statistical reporting packs (SPSS / GraphPad Prism / correlation / ...)
+- PRISMA screening/extraction workflows + reporting checklists
+- qPCR QC documentation (amplification/melt curves, standard curves)
 
 
 ## Signature strengths
