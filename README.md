@@ -13,6 +13,12 @@ It includes short case studies, reusable templates/checklists, and anonymized sa
 - Produced **publication-ready figures/tables** and structured analysis reports (SPSS / GraphPad Prism / Minitab).
 - Built and QC’d **PRISMA workflows**: screening strategy, extraction templates, synthesis and reporting.
 - Mentored and supervised students/junior staff on **protocols, documentation standards, and ethics/compliance**.
+- Supported 130+ completed projects and 15+ submissions (7 accepted/in press) across biomedical and neuroscience topics.
+- Delivered publication-ready tables/figures and structured analysis reports using IBM SPSS, Minitab, and GraphPad Prism.
+- Supported PRISMA-based evidence synthesis: systematic/scoping reviews and SWiM where meta-analysis was not feasible.
+- Animal lab delivery: surgeries/sampling + behavioral assays; trained/supervised 300+ students/junior staff; contributed to 200+ deliverables.
+- Serve as an ad-hoc peer reviewer for PLOS ONE (methodology/statistics, evidence synthesis).
+
 
 ## Contents
 - `00_Profile/` → one-page overview (export to PDF if needed)
