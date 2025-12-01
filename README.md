@@ -20,6 +20,11 @@ It includes short case studies, reusable templates/checklists, and anonymized sa
 - Serve as an ad-hoc peer reviewer for PLOS ONE (methodology/statistics, evidence synthesis).
 - Thesis deliverables: 29 graphs + 13 results tables + 8 finalized figures (CUMS + qPCR project).
 
+## Quick links
+- One-page overview: `00_Profile/one-page-portfolio.pdf`
+- Samples: `03_Samples/`
+- Case studies: `01_Case_Studies/`
+- Templates: `02_Templates/`
 
 ## Contents
 - `00_Profile/` → one-page overview (export to PDF if needed)
