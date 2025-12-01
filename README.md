@@ -18,6 +18,7 @@ It includes short case studies, reusable templates/checklists, and anonymized sa
 - Supported PRISMA-based evidence synthesis: systematic/scoping reviews and SWiM where meta-analysis was not feasible.
 - Animal lab delivery: surgeries/sampling + behavioral assays; trained/supervised 300+ students/junior staff; contributed to 200+ deliverables.
 - Serve as an ad-hoc peer reviewer for PLOS ONE (methodology/statistics, evidence synthesis).
+- Thesis deliverables: 29 graphs + 13 results tables + 8 finalized figures (CUMS + qPCR project).
 
 
 ## Contents
