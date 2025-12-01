@@ -1,25 +1,23 @@
 CASE STUDY #02 — Animal Lab Specialist & Project Manager (Multi-project Delivery)
 
 ## Context / Goal
-- [1–2 lines: what question/problem this project addressed]
+- End-to-end delivery in animal-lab settings across multiple concurrent projects: protocol execution, behavioral testing, sampling, and documentation/QC to support thesis/manuscript outputs.
 
 ## My Role
-- [Be specific: e.g., study design + protocol execution + data QC + analysis + reporting]
+- Animal lab specialist + project coordinator: planned timelines, ensured SOP compliance, supervised trainees, executed/oversaw assays, and ensured complete documentation.
 
 ## Methods & Tools
-- Experimental/Assays: [CUMS / sampling / behavioral tests / PCR/qPCR / ...]
-- Data/Analysis: [SPSS / GraphPad Prism / Minitab], QC steps, reproducible reporting
-- Evidence synthesis (if applicable): [PRISMA / SWiM / screening / extraction]
+- Rodent handling, sampling, and lab documentation logs
+- Behavioral assays (e.g., maze-based learning/memory, locomotor, pain-related tests as applicable)
+- Data organization + reporting standards (clean labeling, QC checklists)
 
 ## Deliverables
-- [e.g., X figures + Y tables + analysis report + methods section + protocol/SOP updates]
-- [Any templates/checklists you created for the team]
+- Multi-project execution support + complete documentation packs (logs/checklists)
+- Training materials + onboarding SOP guidance for students/juniors
 
 ## Impact / Metrics (use numbers)
-- Scale: [N animals / N samples / N records screened / N studies included / ...]
-- Turnaround: [e.g., delivered analysis pack in 72 hours]
-- Quality: [e.g., reduced revision cycles; improved reporting completeness]
-- Status: [submitted / accepted / in revision] (only if you can disclose)
+- Trained/supervised 300+ students/junior staff
+- Contributed to 200+ research/thesis deliverables (protocol execution + documentation + reporting support)
 
 ## Notes on Ethics / Confidentiality
-- [1–2 lines about anonymization, ethics approvals, SOP compliance]
+- All public examples are anonymized/reconstructed; no institution- or person-identifiable media shared.
