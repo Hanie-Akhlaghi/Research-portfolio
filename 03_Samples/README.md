@@ -1,8 +1,8 @@
-# Samples (add later)
+# Samples
 
-Add 2–3 anonymized samples, for example:
-- `sample-figure-pack.pdf` (GraphPad-style figure + caption)
-- `sample-results-table.pdf` (clean stats table)
-- `prisma-flow.png` (PRISMA 2020 flow diagram based on a dummy review)
+- **Lab experience (photos, bench work)**: [sample-lab-experience.pdf](sample-lab-experience.pdf)
+- **Figure pack (publication-ready examples)**: [sample-figure-pack.pdf](sample-figure-pack.pdf)
+- **Results table (clean statistical reporting)**: [sample-results-table.pdf](sample-results-table.pdf)
+- **PRISMA flow diagram**: [prisma-flow.png](prisma-flow.png)
 
-Tip: ensure samples contain **no confidential data**.
+All samples are anonymized/reconstructed and do not include institution names, personal identifiers, or raw identifiable data.
