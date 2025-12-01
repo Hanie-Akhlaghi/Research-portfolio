@@ -1,25 +1,24 @@
 CASE STUDY #03 — qPCR / Gene Expression Workflow Support (Primer/Assay + Reporting)
 
 ## Context / Goal
-- [1–2 lines: what question/problem this project addressed]
+- Standardized qPCR workflow support to ensure assay quality, QC transparency, and thesis/manuscript-ready reporting.
 
 ## My Role
-- [Be specific: e.g., study design + protocol execution + data QC + analysis + reporting]
+- qPCR support: workflow setup, QC review (amplification/melt curves), data organization, and reporting outputs.
 
 ## Methods & Tools
-- Experimental/Assays: [CUMS / sampling / behavioral tests / PCR/qPCR / ...]
-- Data/Analysis: [SPSS / GraphPad Prism / Minitab], QC steps, reproducible reporting
-- Evidence synthesis (if applicable): [PRISMA / SWiM / screening / extraction]
+- Real-time PCR (qPCR): assay QC, melt curve specificity checks, standard curve interpretation
+- Documentation: sample tracking + batch QC notes
+- Reporting: figure/table outputs for thesis/manuscript inclusion
 
 ## Deliverables
-- [e.g., X figures + Y tables + analysis report + methods section + protocol/SOP updates]
-- [Any templates/checklists you created for the team]
+- QC-ready figure set (amplification/melt curves, standard curves)
+- Clean result tables + export-ready plots
+- Short method notes / documentation pack
 
 ## Impact / Metrics (use numbers)
-- Scale: [N animals / N samples / N records screened / N studies included / ...]
-- Turnaround: [e.g., delivered analysis pack in 72 hours]
-- Quality: [e.g., reduced revision cycles; improved reporting completeness]
-- Status: [submitted / accepted / in revision] (only if you can disclose)
+- Reduced ambiguity in reporting by providing QC evidence alongside results
+- Enabled faster supervisor review by packaging outputs as “ready-to-insert” figures/tables
 
 ## Notes on Ethics / Confidentiality
-- [1–2 lines about anonymization, ethics approvals, SOP compliance]
+- No sample identifiers or institution names are included in public materials.
