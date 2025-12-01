@@ -9,11 +9,15 @@ Tehran, Iran | hanie.akhlaghi@gmail.com | LinkedIn: https://www.linkedin.com/in/
 - Evidence synthesis (PRISMA-based systematic/scoping reviews; SWiM where applicable)
 - Scientific writing & peer-review support (structuring manuscripts + response to reviewers)
 
-## Outcome-driven proof (edit numbers if needed)
-- Projects supported (freelance + institutional): **130+**
-- Manuscript/thesis submissions supported: **15+**
-- Accepted / in-press: **7**
-- Students/junior staff trained (animal labs): **300+**
+## Outcome-driven proof
+- Projects supported (freelance + institutional): 130+
+- Manuscript/thesis submissions supported: 15+ ( 7 accepted/in press )
+- Students/junior staff trained/supervised in animal labs: 300+
+  ## Core toolkit
+- Data analysis/reporting: SPSS / Oligo / GraphPad Prism / blast / etc
+- Animal work: behavioral tests, sampling, documentation/QC / etc
+- Evidence synthesis: PRISMA, SWiM / etc
+
 
 ## Signature strengths
 - Turn raw data → clean dataset → analysis → publication-ready outputs
