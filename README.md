@@ -2,6 +2,8 @@
 
 This repository is a curated research portfolio showcasing **how I deliver research outputs** (not just a long list of projects).  
 It includes short case studies, reusable templates/checklists, and anonymized sample outputs.
+> Note: This repository is **document-focused** (PDF case studies, templates, and anonymized samples).  
+> For **reproducible analysis code demos**, please see the repositories linked below.
 
 ## Tracks
 1) **Behavioral neuroscience & rodent models** (protocol execution, behavioral assays, documentation)
@@ -25,17 +27,17 @@ It includes short case studies, reusable templates/checklists, and anonymized sa
 - Samples: `03_Samples/`
 - Case studies: `01_Case_Studies/`
 - Templates: `02_Templates/`
-
+- 
+## Reproducible code demos
+- Meta-analysis mini (R): https://github.com/Hanie-Akhlaghi/meta-analysis-mini
+- 
 ## Contents
 - `00_Profile/` → one-page overview (export to PDF if needed)
 - `01_Case_Studies/` → 5 one-page case studies (context, role, tools, deliverables, measurable outcomes)
 - `02_Templates/` → reusable templates/checklists (PRISMA, reporting, QC, reviewer responses, documentation)
 - `03_Samples/` → anonymized sample outputs (figures/tables/PRISMA flow)
 - `99_Notes/` → confidentiality and anonymization notes
- ## Reproducible code demos
-- Meta-analysis mini (R): https://github.com/Hanie-Akhlaghi/meta-analysis-mini
-
-
+ 
 ## Confidentiality
 All samples are anonymized and/or reconstructed from non-sensitive data to respect confidentiality and institutional policies.
 
