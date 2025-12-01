@@ -1,25 +1,22 @@
 CASE STUDY #05 — Statistical Analysis + Publication-ready Reporting Pack (SPSS/GraphPad)
 
 ## Context / Goal
-- [1–2 lines: what question/problem this project addressed]
+- Turning raw experimental/clinical-style datasets into clean, publication-ready statistical reporting packs.
 
 ## My Role
-- [Be specific: e.g., study design + protocol execution + data QC + analysis + reporting]
+- Data cleaning + analysis + reporting: ensured correct test selection, clear outputs, and manuscript-ready formatting.
 
 ## Methods & Tools
-- Experimental/Assays: [CUMS / sampling / behavioral tests / PCR/qPCR / ...]
-- Data/Analysis: [SPSS / GraphPad Prism / Minitab], QC steps, reproducible reporting
-- Evidence synthesis (if applicable): [PRISMA / SWiM / screening / extraction]
+- SPSS / GraphPad Prism / ... (as applicable)
+- QC: missingness/outlier checks, consistent group labels, reproducible reporting steps
 
 ## Deliverables
-- [e.g., X figures + Y tables + analysis report + methods section + protocol/SOP updates]
-- [Any templates/checklists you created for the team]
+- Clean results tables + figure pack + short interpretation summary
+- “Ready-to-paste” stats reporting outputs (F-statistics/p-values, effect direction, captions)
 
 ## Impact / Metrics (use numbers)
-- Scale: [N animals / N samples / N records screened / N studies included / ...]
-- Turnaround: [e.g., delivered analysis pack in 72 hours]
-- Quality: [e.g., reduced revision cycles; improved reporting completeness]
-- Status: [submitted / accepted / in revision] (only if you can disclose)
+- Delivered analysis outputs in a standardized, reviewer-friendly format
+- Improved reporting completeness via consistent captions, units, and naming conventions
 
 ## Notes on Ethics / Confidentiality
-- [1–2 lines about anonymization, ethics approvals, SOP compliance]
+- No identifiable datasets are shared; samples are anonymized/reconstructed.
