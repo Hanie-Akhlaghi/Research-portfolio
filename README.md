@@ -32,6 +32,9 @@ It includes short case studies, reusable templates/checklists, and anonymized sa
 - `02_Templates/` → reusable templates/checklists (PRISMA, reporting, QC, reviewer responses, documentation)
 - `03_Samples/` → anonymized sample outputs (figures/tables/PRISMA flow)
 - `99_Notes/` → confidentiality and anonymization notes
+ ## Reproducible code demos
+- Meta-analysis mini (R): https://github.com/Hanie-Akhlaghi/meta-analysis-mini
+
 
 ## Confidentiality
 All samples are anonymized and/or reconstructed from non-sensitive data to respect confidentiality and institutional policies.
