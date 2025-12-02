@@ -29,7 +29,7 @@ It includes short case studies, reusable templates/checklists, and anonymized sa
 - Templates: `02_Templates/`
 - 
 ## Reproducible code demos
-- Meta-analysis mini (R): https://github.com/Hanie-Akhlaghi/meta-analysis-mini
+- Reproducible meta-analysis demo (R):https://github.com/Hanie-Akhlaghi/repro-meta-analysis-demo/tree/main)
 - 
 ## Contents
 - `00_Profile/` → one-page overview (export to PDF if needed)
